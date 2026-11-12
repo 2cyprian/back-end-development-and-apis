@@ -32,7 +32,7 @@
     "build-jwt-protected-routes": false
   },
   "chat.disableAIFeatures": true,
-  "files.autoSave": "off",
+  "files.autoSave": "afterDelay",
   "freecodecamp-courses.autoStart": false,
   "freecodecamp-courses.prepare": "touch $(pwd)/.logs/.freecodecamp-os-lockfile",
   "freecodecamp-courses.scripts.develop-course": "NODE_ENV=development npm run start",
